@@ -1,5 +1,5 @@
 # Simple Tailwind CSS Starter
-
+https://willowy-capybara-7e0269.netlify.app/
 This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
 
 ## Usage
